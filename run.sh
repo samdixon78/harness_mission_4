@@ -1,2 +1,2 @@
 echo 'Hello from run.sh'
-echo 'Hello It's nearly lunchtime'
+echo 'Hello It is nearly lunchtime'
